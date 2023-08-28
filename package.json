@@ -1,0 +1,19 @@
+{
+  "name": "express_website_mail_qr",
+  "version": "1.0.0",
+  "description": "it is the website where we can send the data and can run the get app to get the data",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon ."
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2",
+    "ejs": "^3.1.9",
+    "express": "^4.18.2",
+    "morgan": "^1.10.0",
+    "nodemailer": "^6.9.4",
+    "nodemon": "^3.0.1"
+  }
+}
